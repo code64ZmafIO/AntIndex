@@ -4,6 +4,12 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>AntIndex</Title>
+    <Authors>code64ZmafIO</Authors>
+    <Description>Linked data text search engine.</Description>
+    <RepositoryUrl>https://github.com/code64ZmafIO/AntIndex</RepositoryUrl>
+    <PackageTags>search; index; realtions; data;</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
